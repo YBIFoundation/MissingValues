@@ -1,0 +1,17 @@
+Audit_ID,Store,Shift,SKU,Stock_Count,Scan_Time,Supervisor_Check
+A01,Delhi,Day,Rice,8,09:00,Verified
+A02,Delhi,Day,Oil,0,09:10,Verified
+A03,Delhi,Night,Rice,,,
+A04,Delhi,Night,Oil,,,
+A05,Delhi,Day,Sugar,5,09:30,Verified
+A06,Delhi,Night,Sugar,,,
+A07,Pune,Day,Rice,10,10:00,Verified
+A08,Pune,Day,Oil,2,10:10,Verified
+A09,Pune,Night,Rice,,,
+A10,Pune,Night,Oil,4,22:20,Verified
+A11,Pune,Day,Sugar,0,10:30,
+A12,Pune,Night,Sugar,6,22:30,Verified
+A13,,Day,Rice,,11:00,
+A14,,Night,Oil,3,23:20,Verified
+A15,Delhi,Day,Rice,7,,Verified
+A16,Pune,Night,Oil,9,22:40,
