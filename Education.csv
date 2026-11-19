@@ -1,0 +1,23 @@
+learner_id,learning_track,attendance_status,session_mode,study_hours_week,assessment_status,assessment_score_pct,waiver_status,waiver_amount_inr
+L01,Python,Attended,Online,2,Completed,62,No Waiver,
+L02,Python,Attended,Offline,3,Completed,,No Waiver,0
+L03,Python,Pending,Online,4,Pending,,No Waiver,0
+L04,Python,Attended,Offline,3,Completed,74,No Waiver,0
+L05,Python,Pending,,,Pending,,No Waiver,0
+L06,Python,Absent,Offline,4,Not Attempted,,No Waiver,0
+L07,Python,Attended,Online,5,Completed,80,Granted,500
+L08,Python,Attended,Offline,32,Completed,92,No Waiver,0
+L09,Excel,Attended,Online,5,Completed,60,No Waiver,0
+L10,Excel,Attended,Offline,6,Completed,66,No Waiver,0
+L11,Excel,Pending,Online,7,Pending,,No Waiver,
+L12,Excel,Attended,Offline,6,Completed,72,No Waiver,0
+L13,Excel,Attended,Online,,Completed,78,Granted,250
+L14,Excel,Attended,Offline,8,Completed,82,No Waiver,0
+L15,Power BI,Attended,Online,11,Completed,75,No Waiver,0
+L16,Power BI,Attended,Offline,12,Completed,76,No Waiver,0
+L17,Power BI,Pending,Online,13,Pending,,No Waiver,0
+L18,Power BI,Attended,Offline,,Completed,84,No Waiver,0
+L19,Data Science,Attended,Online,9,Completed,70,No Waiver,0
+L20,Data Science,Pending,,,Pending,,Pending,
+L21,Cyber Safety,Pending,Not Applicable,,Pending,,Pending,
+L22,,Pending,,,Pending,,Pending,
