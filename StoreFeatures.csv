@@ -1,0 +1,17 @@
+store_id,record_role,store_zone,daily_customers,staff_on_shift,weekly_stock_spend_inr,weekly_sales_inr
+T01,TRAIN,Residential,38,2,18000,43000
+T02,TRAIN,Residential,42,2,20000,47000
+T03,TRAIN,Market,45,2,22000,49000
+T04,TRAIN,Residential,48,3,24000,52000
+T05,TRAIN,Market,52,3,26000,56000
+T06,TRAIN,Residential,55,3,28000,59000
+T07,TRAIN,Market,47,3,,51000
+T08,TRAIN,Market,60,4,31000,65000
+T09,TRAIN,Market,80,5,42000,90000
+T10,TRAIN,Residential,84,5,44000,94000
+T11,TRAIN,Market,90,6,48000,
+T12,TRAIN,Residential,95,6,51000,106000
+E01,TEST,Residential,49,3,25000,54000
+E02,TEST,Market,86,5,,96000
+E03,TEST,Market,92,6,49000,
+E04,TEST,,58,4,30000,63000
